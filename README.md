@@ -170,7 +170,7 @@ curl localhost:9009/push --data 'device_token=your_token_here'
 ## Credits
 
 This tutorial was written while working on a React Native project with
-@besartshyti, @izaakrogan and @jrans and @foundersandcoders.  
+[@besarthoxhaj](https://github.com/besarthoxhaj), [@izaakrogan](https://github.com/izaakrogan) and [@jrans](https://github.com/jrans) and [@foundersandcoders](https://github.com/foundersandcoders).  
 
 If you like what we've done, and want to get in touch tweet me @nikhilaravi.
 
